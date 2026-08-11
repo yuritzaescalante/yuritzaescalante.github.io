@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a PhD Student under the mentorship of [Kristen Lindquist](https://www.kristenalindquist.com/) in [the Affective Science Lab](https://affectivesciencelab.com/). I am a 3rd year in the [Cognitive Neuroscience Program](https://psychology.osu.edu/research/groups/cognitive-neuroscience) in the Psychology Department at [The Ohio State University](https://www.osu.edu/). Prior to OSU, I was a full-time research coordinator in the [Yassa Lab](https://faculty.sites.uci.edu/myassa/) under the mentorship of Michael Yassa at the University of California, Irvine and completed my first year in the [Social Psychology PhD Program](https://socialpsych.unc.edu/) at the University of North Carolina, Chapel Hill. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in understanding the role of the brain and body in forming our affective experiences. In my research, I use a combination of functional magnetic resonance imaging (fMRI), ecological sampling methods, and inflammatory biomarkers.
