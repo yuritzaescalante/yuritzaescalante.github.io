@@ -10,10 +10,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 toc:
   sidebar: left
 ---
-<iframe 
-  src="https://docs.google.com/document/d/11lE5E02e1YQzj1BfSw6Q7_TAf6HU4AoS/preview" 
-  width="100%" 
-  height="800px" 
-  frameborder="0">
-</iframe>
+Link to Full CV: [CV](https://docs.google.com/document/d/11lE5E02e1YQzj1BfSw6Q7_TAf6HU4AoS/edit?usp=sharing&ouid=111161889396951678772&rtpof=true&sd=true)
+
+<iframe src="https://docs.google.com/document/d/11lE5E02e1YQzj1BfSw6Q7_TAf6HU4AoS/edit?usp=sharing&ouid=111161889396951678772&rtpof=true&sd=true" width="100%" height="800px"></iframe>
 
