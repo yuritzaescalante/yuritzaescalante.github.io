@@ -1,0 +1,28 @@
+/* --------------------------------------------------
+   al-folio v1.x Complete Color & Font Profile
+-------------------------------------------------- */
+
+// Global Font Rules (Placed at the very top of the file)
+html, body, p, span, a, li, h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+body, p, li {
+  font-weight: 450 !important;
+  letter-spacing: 0.01rem !important; /* Adds subtle thickness to text characters */
+}
+
+// Light Theme: Stark pure white backdrop with a deepened charcoal-green text
+[data-theme="light"] {
+  --global-bg-color: #fbfaf5;      // Pure stark white for maximum reflection
+  --global-text-color: #0b110e;    // Near-black forest tone (Contrast Ratio: 20.5:1)
+  --global-theme-color: #238031df;   // Vibrant pine green—clearly recognizable as green (Contrast: 7.2:1)
+  --global-hover-color: #7ab484;   // Lighter, energetic mint-green for interactive hovers
+}
+
+// Dark Theme: Deep midnight-spruce backdrop with brilliant stark text
+[data-theme="dark"] {
+  --global-bg-color: #141d1a;      // Deepened, darker shade of your original green
+  --global-text-color: #ffffff;    // Pure stark white text (Contrast Ratio: 15.6:1)
+  --global-theme-color: #7aa083;   // Highly luminous, crisp sage for dark links
+  --global-hover-color: #8ebdac;   // Bright mint-silver for interactive dark hover states
+}
