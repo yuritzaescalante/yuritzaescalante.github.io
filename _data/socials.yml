@@ -1,10 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_url: https://docs.google.com/document/d/11lE5E02e1YQzj1BfSw6Q7_TAf6HU4AoS/edit?usp=sharing&ouid=111161889396951678772&rtpof=true&sd=true # path to your CV PDF file
 email: escalante.33@osu.edu # your email address
-orcid_id: 0009-0008-3698-5143 # ORCID ID
-# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: G5J6pzAAAAAJ # your Google Scholar ID
+orcid_id: 0009-0008-3698-5143 # ORCID ID
+osf_id: 0009-0008-3698-5143 # OSF ID
+# rss_icon: true # comment this line to hide the RSS icon
+bluesky_url: https://bsky.app/profile/yuritzaesc.bsky.social # your Bluesky profile URL
+linkedin_url: https://www.linkedin.com/in/yuritza-escalante-7479b91bb/ # your LinkedIn profile URL
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
