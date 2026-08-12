@@ -1,17 +1,16 @@
 cv:
   name: Yuritza Y. Escalate
-  label: PhD Student
   email: escalante.33@osu.edu
   location: Columbus, Ohio, US
   # image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  address:
-    street: 1827 Neil Ave
-    city: Columbus
-    region: Ohio
-    postalCode: 43210
-    countryCode: US
+ # address:
+ #   street: 1827 Neil Ave
+ #   city: Columbus
+ #   region: Ohio
+ #   postalCode: 43210
+ #   countryCode: US
 
   sections:
     Education:
