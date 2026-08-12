@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>The Ohio State University</a>. 
 
 profile:
-  align: center
+  align: left
   image: Yuritza_Headshot_updated.jpeg
   image_circular: false # crops the image to make it circular
 #  more_info: >
