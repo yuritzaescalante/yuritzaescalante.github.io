@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Ohio State University</a>. 
+subtitle: <a href='#'> PhD Student at The Ohio State University</a>. 
 
 profile:
   align: left
