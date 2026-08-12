@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_url: https://docs.google.com/document/d/11lE5E02e1YQzj1BfSw6Q7_TAf6HU4AoS/edit?usp=sharing&ouid=111161889396951678772&rtpof=true&sd=true # path to your CV PDF file
 email: escalante.33@osu.edu # your email address
 scholar_userid: G5J6pzAAAAAJ # your Google Scholar ID
 orcid_id: 0009-0008-3698-5143 # ORCID ID
