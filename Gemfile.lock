@@ -397,6 +397,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  webrick (~> 1.9)
 
 CHECKSUMS
   activesupport (7.2.3.1) sha256=11ebed516a43a0bb47346227a35ebae4d9427465a7c9eb197a03d5c8d283cb34

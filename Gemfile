@@ -62,3 +62,5 @@ group :al_folio_plugins do
     gem 'al_marimo', '= 1.0.0'
     gem 'al_rtl', '= 1.0.0'
 end
+
+gem "webrick", "~> 1.9"
