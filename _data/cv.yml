@@ -1,7 +1,6 @@
 cv:
   name: Yuritza Y. Escalate
   label: PhD Student
-  advisor: Kristen A. Lindquist, PhD
   email: escalante.33@osu.edu
   location: Columbus, Ohio, US
   # image: ""
@@ -26,8 +25,7 @@ cv:
 
       - institution: University of California, Riverside
         location: Riverside, California, US
-        area: Psychology
-        minor: Neuroscience
+        area: Psychology, minor in Neuroscience
         studyType: BS
         start_date: 2018
         end_date: 2022
