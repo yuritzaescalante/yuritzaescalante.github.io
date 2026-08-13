@@ -15,14 +15,14 @@ body, p, li {
 [data-theme="light"] {
   --global-bg-color: #fbfaf5;      // Pure stark white for maximum reflection
   --global-text-color: #0b110e;    // Near-black forest tone (Contrast Ratio: 20.5:1)
-  --global-theme-color: #197627df;   // Vibrant pine green—clearly recognizable as green (Contrast: 7.2:1)
-  --global-hover-color: #7ab484;   // Lighter, energetic mint-green for interactive hovers
+  --global-theme-color: #00802b;   // Vibrant pine green—clearly recognizable as green (Contrast: 7.2:1)
+  --global-hover-color: #398853;   // Lighter, energetic mint-green for interactive hovers
 }
 
 // Dark Theme: Deep midnight-spruce backdrop with brilliant stark text
 [data-theme="dark"] {
   --global-bg-color: #141d1a;      // Deepened, darker shade of your original green
   --global-text-color: #ffffff;    // Pure stark white text (Contrast Ratio: 15.6:1)
-  --global-theme-color: #84a38e;   // Highly luminous, crisp sage for dark links
+  --global-theme-color: #8ebc9c;   // Highly luminous, crisp sage for dark links
   --global-hover-color: #89a08d;   // Bright mint-silver for interactive dark hover states
 }
