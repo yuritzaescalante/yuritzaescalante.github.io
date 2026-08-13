@@ -8,26 +8,7 @@ nav_order: 3
 #display_categories: [recent, past]
 horizontal: false
 ---
-<style>
-  /* Force fixed 1:1 ratio on card thumbnails without breaking layout height */
-  .projects .card img,
-  .projects .card figure img,
-  .projects .card picture img {
-    width: 100% !important;
-    height: 100% !important;
-    aspect-ratio: 4 / 3 !important;
-    object-fit: cover !important;
-    object-position: center !important;
-  }
 
-  /* Prevent figure containers from collapsing */
-  .projects .card figure,
-  .projects .card picture {
-    display: block !important;
-    width: 100% !important;
-    aspect-ratio: 4 / 3 !important;
-  }
-</style>
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -2,7 +2,7 @@
 layout: page
 title: Affective Variability and Brain Network Dynamics
 description: 
-img: assets/img/affvar.png
+img: assets/img/variability.jpg
 importance: 1
 #category: recent
 #related_publications: true
@@ -14,11 +14,11 @@ We all know people whose lives are an emotional roller coaster with high highs a
 
 #### Under Review
 
-Escalante, Y.Y., Ma, R., West, T.N., Wulfekuhle, G., Fredrickson, B.L., Cohen, J.C., Lindquist, K.A. (Under Review). Affective variability in daily life is associated with greater dynamic brain network functional connectivity during induced affect.
+**Escalante, Y.Y.**, Ma, R., West, T.N., Wulfekuhle, G., Fredrickson, B.L., Cohen, J.C., Lindquist, K.A. (Under Review). Affective variability in daily life is associated with greater dynamic brain network functional connectivity during induced affect.
 
-#### In Prep
+#### In Preparation
 
-Escalante, Y.Y., Wulfekuhle, G., Ma, R., West, T.N., Fredrickson, B.L., Cohen, J.C., Lindquist, K.A. (In Prep). Affective variability and brain network integration patterns during induced affect.
+**Escalante, Y.Y.**, Wulfekuhle, G., Ma, R., West, T.N., Fredrickson, B.L., Cohen, J.C., Lindquist, K.A. (In Prep). Affective variability and brain network integration patterns during induced affect.
 
 ## Images
 
